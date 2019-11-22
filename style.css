@@ -18,6 +18,11 @@ ul {
     justify-content: space-around;
 }
 
+header {
+    display: flex;
+    justify-content: center;
+}
+
 li {
     font-size: 20px;
     text-transform: uppercase;
