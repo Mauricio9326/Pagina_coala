@@ -1,0 +1,42 @@
+body {background-image: url("https://ntnc.org.np/sites/default/files/styles/slider_1920x1024/public/default_images/default-cover_0.jpg?itok=Tps_3S1F");
+
+}
+nav{background-color: yellow;}
+
+#navbar {
+    width: 100px;
+    height: 75px;
+    background-color: yellow;
+}
+
+ul {
+    list-style: none;
+    border: yellow solid;
+    padding: 2em;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+li {
+    font-size: 20px;
+    text-transform: uppercase;
+    display: inline;
+}
+#CaixaUm {
+    background-color: purple;
+    width: 300px;
+    height: 200px;
+}
+
+#CaixaDois {
+    background-color: salmon;
+    width: 300px;
+    height: 200px;
+}
+
+#CaixaTrês {
+    background-color: seagreen;
+    width: 300px;
+    height: 200px;
+}
